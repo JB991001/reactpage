@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Apple iPhone 16 Pro Max 256GB Natural Titanium",
+      "price": 1780000,
+      "img": "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20241027_18%2F1730008490626czzxL_PNG%2F9583854495360062_338687880.png&type=a340"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Z Fold5 Thom Browne Edition",
+      "price": 3300000,
+      "img": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fkream-phinf.pstatic.net%2FMjAyMzA5MTJfMjk1%2FMDAxNjk0NDg4OTAzMDg4.ARlexXMXQHONzlGON2fa9kHGFaVtc7MTZyslK6ilBX0g.BwjRqypX1Y1S7FvBkEepS20puP9dPZMi_d1Y_By7BOIg.JPEG%2Fa_4c42f7f2f24540cda2421deed0a20c94.jpg%3Ftype%3Dl_webp&type=a340"
+    },
+    {
+      "id": 3,
+      "name": "Sony WH-1000XM4 Silver",
+      "price": 309000,
+      "img": "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20230304_256%2F1677899928101XUIH9_JPEG%2F79035816815699516_895323992.JPG&type=a340"
+    },
+    {
+      "id": 4,
+      "name": "BOSE QC Triple Black",
+      "price": 285000,
+      "img": "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20230915_192%2F1694739345347I9N4l_JPEG%2F2087075535513389_443926341.jpg&type=a340"
+    },
+    {
+      "id": 5,
+      "name": "Apple Watch SE 2023 44mm GPS Midnight",
+      "price": 319000,
+      "img": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fcdn.011st.com%2F11dims%2Fresize%2F600x600%2Fquality%2F75%2F11src%2Fproduct%2F3836975107%2FB.jpg%3F657000000&type=a340"
+    }
+  ]
+  

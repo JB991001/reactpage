@@ -1,0 +1,75 @@
+body{
+    background-color: #eee;
+}
+
+.login-outBox{
+  background-color: #555;
+  width: 100vw;
+  height: 100vh;
+}
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    background-color: #555;
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 32px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .login-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .login-button {
+    padding: 15px 30px;
+    width: 250px;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 5px;
+    color: white;
+    transition: background-color 0.3s ease;
+  }
+  
+  .naver {
+    background-color: #03c75a;
+  }
+  
+  .kakao {
+    background-color: #fee500;
+  }
+  
+  .instagram {
+    background-color: #e4405f;
+  }
+  
+  .login-button:hover {
+    opacity: 0.8;
+  }
+  
+.home-button {
+    background-color: mediumpurple;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+  }
+  
+  .home-button:hover {
+    background-color: rgb(150,115,219);
+  }
+  

@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Lego Star Wars Emperor's Throne Room Diorama",
+      "price": 114000,
+      "img": "https://search.pstatic.net/common/?src=http%3A%2F%2Fshopping.phinf.naver.net%2Fmain_3974274%2F39742746618.2.20230502134452.jpg&type=a340"
+    },
+    {
+      "id": 2,
+      "name": "Lego Home Alone",
+      "price": 305000,
+      "img": "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20240620_76%2F1718852461194vRA6d_JPEG%2F119988349899523217_1129155083.jpg&type=a340"
+    },
+    {
+      "id": 3,
+      "name": "Lego Porsche 911",
+      "price": 163000,
+      "img": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAyMjJfNjIg%2FMDAxNjEzOTc4NzY3MzMy.H0VDF_-5wMia1zjPbbJlJxa7lvGkktueCCvvf7sx5dAg.xD2mLIARnbbGzqPgNgN94aV0eZNfthqwNuvszTxyuAgg.JPEG.yellow_digo%2FIMG_8196.jpg&type=a340"
+    },
+    {
+      "id": 4,
+      "name": "Lego Dune Atreides Royal Ornithopter",
+      "price": 159000,
+      "img": "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20241128_10%2F17327946344123S2nS_JPEG%2F50753110250651205_1483833046.jpeg&type=a340"
+    },
+    {
+      "id": 5,
+      "name": "Lego Architecture Arc de Triomphe",
+      "price": 95000,
+      "img": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA3MjZfMjU3%2FMDAxNTAxMDE0NDQ3Mzkw.3Vs2wAmuoomChLBtSbbgeAkRMdEcrogS4TA6l5hf2Zcg.DM9JV6MlpaahEdkg86wATIMJTkhQHvt2v1KN1W8Nre4g.JPEG.toyskorea%2F01.jpg&type=a340"
+    }
+  ]
+  

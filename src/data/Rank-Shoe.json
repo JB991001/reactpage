@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Adidas Adifom Supernova Wonder White",
+      "price": 40000,
+      "img": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fkream-phinf.pstatic.net%2FMjAyMzA4MDNfNjAg%2FMDAxNjkxMDU1NTI2MzQ1.EQuApO0ocJGfsJUyLbALltD8vOSCso8wxmzHQZxwkk4g.YVI8oE1qEIhmDG3miP5SjQkRzV0MfQJorBLn4dCP6TYg.PNG%2Fa_9aa400ae726c4bfb884a968f36bacf4e.png&type=a340"
+    },
+    {
+      "id": 2,
+      "name": "Adidas Taekwondo Mei Off White Supplier Colour",
+      "price": 247000,
+      "img": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fimage-cdn.trenbe.com%2Fproduct-images%2F1736671991750_73a5f30f2bf812b9fa73abc4e1e8a780_0.jpeg&type=sc960_832"
+    },
+    {
+      "id": 3,
+      "name": "Asics Gel-Venture 6 Trail Black",
+      "price": 121000,
+      "img": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2Fgy8AAOSw3IVm5z1h%2Fs-l1600.jpg&type=a340"
+    },
+    {
+      "id": 4,
+      "name": "Reebok Engine A Silver",
+      "price": 169000,
+      "img": "https://search.pstatic.net/common/?src=https%3A%2F%2Fshop-phinf.pstatic.net%2F20250213_273%2F1739424954762DeQfa_JPEG%2F68839996776913990_567331959.jpeg&type=a340"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Martens Zebzag Suede Slingback Platform Mule Black",
+      "price": 108000,
+      "img": "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20240418_55%2F1713406397526s4LhT_JPEG%2F114542286236736069_255809500.jpg&type=a340"
+    }
+  ]
+  
